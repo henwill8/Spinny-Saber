@@ -1,4 +1,4 @@
-# YEs
+# Spinning Saber
 
 ## Credits
 
